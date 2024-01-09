@@ -9,5 +9,6 @@ for (let index = 0; index < array.length; index++) {
 }
 
 
+let x=100;
 
-console.log(4445);
+
